@@ -1,0 +1,50 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar
+{
+    margin-bottom: 60px;
+}
+.orange-bg
+{
+    background-color: #fceae8;
+}
+.carousel-item
+{
+    padding: 20px 50px;
+}
+.price
+{
+    color: #FF136F;
+}
+.buy-now-button
+{
+    background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%)  ;
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+.carousel
+{
+    margin-bottom: 50px;
+}
+.cat1
+{
+    background-color: orange;
+    padding: 20px;
+}
+.cat2
+{
+    background-color: orchid;
+}
+.cat3
+{
+    background-color: blue;
+}
